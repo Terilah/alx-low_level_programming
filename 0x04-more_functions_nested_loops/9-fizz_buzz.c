@@ -2,8 +2,7 @@
 /**
 * main - entry point
 *   
-*Description: prints FizzBuzz
-*     
+*Description: prints FizzBuzz     
 *Return: void
 */
 int main(void)
