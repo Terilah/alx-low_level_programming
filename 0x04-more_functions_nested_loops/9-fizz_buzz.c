@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
-* main - entry point
-*   
-*Description: prints FizzBuzz     
+*main - entry point
+*
+*Description: prints FizzBuzz
+*
 *Return: void
 */
 int main(void)
